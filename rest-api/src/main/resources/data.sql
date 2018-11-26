@@ -1,0 +1,1 @@
+INSERT INTO USER (id,user_name,password) VALUES (user_seq.nextval,'admin','$2a$11$C2MYLq0hxdFAnRc.hBRtYO/sqd8IYJz1xL.IVemeIhQezcCw/oDRe')
